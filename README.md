@@ -20,7 +20,7 @@ Egypt. My passion for software lies with dreaming up ideas and making them come 
 <p dir="auto">&nbsp;</p>
 
 <div  >
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="300" height="180" style="max-width: 100%;">
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="300" height="140" style="max-width: 100%;">
   
   <ul align="left">
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning <strong>React-native</strong></li><p dir="auto"></p>

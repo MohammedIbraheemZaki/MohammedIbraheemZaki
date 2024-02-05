@@ -23,7 +23,7 @@ Egypt. My passion for software lies with dreaming up ideas and making them come 
   <ul align="left">
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning <strong>React-native</strong></li><p dir="auto"></p>
 <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <strong>React, Javascript and Typescript</strong></li><p dir="auto"></p>
-<li><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Check my resume: <a href="[[https://drive.google.com/file/d/1lOgGyDalmvv5yiWUtgaTs0f2KClak-ks/view?usp=sharing](https://mohammedibraheemzaki.github.io/resume/)](https://mohammedibraheemzaki.github.io/resume/)" rel="nofollow">Resume</a></li><p dir="auto"></p>
+<li><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Check my resume: <a href="(https://mohammedibraheemzaki.github.io/resume/)" rel="nofollow">Resume</a></li><p dir="auto"></p>
 <li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Available for hire : <a href="mailto:zakiz0054@gmail.com" rel="nofollow">Drop me an e-mail</a></li><p dir="auto"></p>
 </ul>
 

@@ -29,7 +29,10 @@ Egypt. My passion for software lies with dreaming up ideas and making them come 
 
 </div>
 <div align="center" dir="auto">
-	<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9ed90fe681c8c1735304ab6dd7d2ab46f7459392bd842e601d36f7a2c43ed770/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f686f6c69632d782f686f6c69632d782f6173736574732f6769746875622d636f6e747269627574696f6e2d677269642d736e616b652e737667"><img src="https://camo.githubusercontent.com/9ed90fe681c8c1735304ab6dd7d2ab46f7459392bd842e601d36f7a2c43ed770/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f686f6c69632d782f686f6c69632d782f6173736574732f6769746875622d636f6e747269627574696f6e2d677269642d736e616b652e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" style="max-width: 100%;"></a>
+<div>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedibraheemzaki&show_icons=true&locale=en&theme=tokyonight" alt="mohammedibraheemzaki" /></p> -->
 </div>
 <h3 align="center" dir="auto"><a id="user-content-technologies--tools" class="anchor" aria-hidden="true" href="#technologies--tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Technologies &amp; Tools</h3>
 
@@ -107,18 +110,18 @@ Egypt. My passion for software lies with dreaming up ideas and making them come 
  </div>
 
 <br/>
-<h3 align="center" dir="auto"><a id="user-content-reach-me" class="anchor" aria-hidden="true" href="#reach-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Contact Me</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedibraheemzaki&&theme=tokyonight" alt="mohammedibraheemzaki" /></p>
 <p align="center" dir="auto">
+<h3 align="center" dir="auto"><a id="user-content-reach-me" class="anchor" aria-hidden="true" href="#reach-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Contact Me</h3>
+<p align="center" dir="auto" style= >
   <a href="https://www.linkedin.com/in/muhammed-ibrahem-22702b141/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/159f181818f145666ef06f2442c6d13e7076479dee7230a74361ad60ba27dda3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+     <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
   
   <a href="mailto:zakiz0054@gmail.Com">
-    <img src="https://camo.githubusercontent.com/e08393f0a8bd2edd4f623302c8384582faeab3eb57c317edf3ead15810b7f24f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f44726f70204d652041206c65747465722d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/Drop Me A letter-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
+   <img src="https://img.shields.io/badge/Drop Me A letter-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
-<p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572"><img src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=60&amp;section=footer" style="max-width: 100%;"></a>
-</p>
+
 

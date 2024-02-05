@@ -1,21 +1,19 @@
 <p align="right">
   <a href="#" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=migggz&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=MohammedIbraheemZaki&style=flat-square" alt="Profile Views" />
   </a>
 </p>
 
-<h1 align="center" dir="auto"><a id="user-content-maged-mohamed" class="anchor" aria-hidden="true" href="#maged-mohamed"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Mohammed Ibraheem</h1>
+<h1 align="center" dir="auto"><a id="user-content-mohammed-ibrahim" class="anchor" aria-hidden="true" href="#mohammed-ibrahim"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Mohammed Ibraheem</h1>
 
 <p align="center" dir="auto">
 hi, i'm Mohammed ibraheem, a passionate self-taught, front-end web developer, and a freelance software engineer from 
 Egypt. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build
 </p>
 
-<div>
-  <p align="center" dir="auto">
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/308ed20d4a1887d3b49e1f6dbeea61f80791f91408ec88f8c1dc74f5454d82bf/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6d696767677a267468656d653d6e6f7264266d617267696e2d773d3135"><img src="https://camo.githubusercontent.com/308ed20d4a1887d3b49e1f6dbeea61f80791f91408ec88f8c1dc74f5454d82bf/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6d696767677a267468656d653d6e6f7264266d617267696e2d773d3135" alt="Github Profile Trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=MohammedIbraheemZaki&amp;theme=nord&amp;margin-w=15" style="max-width: 100%;"></a>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=MohammedIbraheemZaki&theme=nord&margin-w=15" alt="Github Profile Trophy" />
 </p>
-</div>
 
 <p dir="auto">&nbsp;</p>
 

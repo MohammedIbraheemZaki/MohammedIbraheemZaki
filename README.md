@@ -1,6 +1,6 @@
-<p align="right" dir="auto">
-  <a href="#">
-    <img src="https://camo.githubusercontent.com/8ebcaebc7723197eed0ec4daa0fecce060ccc7bf983b6c02a1b38f816f4b72cb/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d696767677a267374796c653d666c61742d737175617265" alt="Profile Views" data-canonical-src="https://komarev.com/ghpvc/?username=MohammedIbraheemZaki&amp;style=flat-square" style="max-width: 100%;">
+<p align="right">
+  <a href="#" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=migggz&style=flat-square" alt="Profile Views" />
   </a>
 </p>
 
